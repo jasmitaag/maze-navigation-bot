@@ -1,12 +1,10 @@
-#!/usr/bin/env python3
-
 import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import Twist
 from sensor_msgs.msg import LaserScan, Imu
 from nav_msgs.msg import Odometry
 
-# Import custom algorithms (placeholders)
+# Import custom algorithms 
 from algorithms.a_star import AStarPlanner
 from algorithms.bresenham import smooth_path
 from algorithms.pid_wall_follower import PIDController
