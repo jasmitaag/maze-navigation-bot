@@ -1,5 +1,5 @@
 # **Maze-navigation-bot**
-## **Hybrid A* + Wall-Following: Low-Compute Maze Navigation in ROS 2**
+## *Hybrid A + Wall-Following: Low-Compute Maze Navigation in ROS 2* 
 
 ### **Overview**
 This project is my submission for the ROS Navigator challenge. Maze navigation is a foundational challenge in robotics that tests real-time planning, path execution, and local decision-making under uncertainty. This project was built with a focus on:
